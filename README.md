@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Current Focus: Contributing to various Discord bots under Liyue Harbor.<br>💫 Open to Collaboration: Interested in partnering on Arduino projects to enhance music listening experiences.
+🔭 Current Focus: Working on assistive automation for day-to-day activities
 
 
 # 💻 Tech Stack:
